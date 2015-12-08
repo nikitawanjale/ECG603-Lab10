@@ -1,0 +1,1 @@
+"./Kentec320x240x16_ssd2119_8bit.obj" "./grlib_demo.obj" "./images.obj" "./tm4c123gh6pm_startup_ccs.obj" "./touch.obj" "./ustdlib.obj" "C:/ti/ccsv6/eclipse/PARENT-1-TIVAWARE_INSTALL/TivaWare_C_Series-1.1/driverlib/ccs/Debug/driverlib.lib" "C:/ti/ccsv6/eclipse/PARENT-1-TIVAWARE_INSTALL/TivaWare_C_Series-1.1/grlib/ccs/Debug/grlib.lib" "../grlib_demo_ccs.cmd" -l"libc.a" 
